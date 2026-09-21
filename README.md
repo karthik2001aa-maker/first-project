@@ -41,22 +41,20 @@ The dataset contains four tables:
 
  • Calendar Table   - (Dimension Table) 
 
-## 📊 Dataset Summary 
+## 📊 Dataset Summary     
 
- Metric                                                   Value    
+Total Sales               =                                228.18M 
 
-Total Sales                                               228.18M 
+Total Net sale            =                                212.99M 
 
-Total Net sale                                            212.99M 
+Total Profit              =                                68.73M 
 
-Total Profit                                              68.73M 
+Total unit price          =                                1.25M 
 
-Total unit price                                          1.25M 
+Total Customer            =                                200 
 
-Total Customer                                            200 
+Average Sale               =                               228.18M 
 
-Average Sale                                              228.18M 
+Average profit             =                               68.78k 
 
-Average profit                                            68.78k 
-
-Total Quantity                                            5436 
+Total Quantity             =                               5436 
