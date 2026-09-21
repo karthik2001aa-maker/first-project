@@ -40,3 +40,5 @@ The dataset contains four tables:
  • Customers Table - (Dimension Table) 
 
  • Calendar Table   - (Dimension Table) 
+
+##  Dataset Summary 
