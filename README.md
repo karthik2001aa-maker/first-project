@@ -27,3 +27,8 @@ The project transforms raw retail data into an interactive dashboard that helps 
  • Total customer, Average Sales, Average profit
  
  • Sale by Months
+ ## 🗂️ Dataset 
+
+The project uses the sales Dataset in Excel format. 
+
+The dataset contains four tables:
