@@ -43,7 +43,7 @@ The dataset contains four tables:
 
 ## 📊 Dataset Summary 
 
-# Metric                                                   Value    
+ Metric                                                   Value    
 
 Total Sales                                               228.18M 
 
