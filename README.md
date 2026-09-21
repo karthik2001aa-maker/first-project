@@ -148,3 +148,75 @@ Created an interactive dashboard using:
    • Slicers 
 
    • Conditional Formation 
+
+ # 📑 Dashboard Pages 
+
+The Power BI project contains two pages. 
+
+# 🏠 Dashboard 
+
+   • Total Sales 
+
+   • Total Gross sales 
+
+   • Total Net Sales 
+
+   • Total Profit 
+
+   • Total customer 
+
+   • Average Sales 
+
+   • Average profit 
+
+   • Profit by Segment 
+
+   • Cost And Profit by category 
+
+   • Sale by products 
+
+   • Gross Sale and Net Sale by City 
+
+   • Sale by Category 
+
+   • Sale by Months 
+
+# 🎛️ Filters 
+
+   • Years 
+
+  • Months 
+
+  • Regions 
+
+  • Gender 
+
+  • Category 
+
+  • Subcategory 
+
+# 🛍️ Category Analysis 
+
+Analyzed the three major product categories: 
+
+   • Computer Accessories 
+
+   • Electronics 
+
+   • Office Supplies 
+
+# 👥 Customer Segment Analysis 
+
+Analyzed performance across: 
+
+   • Consumer 
+
+   • Corporate 
+
+   • Small Business 
+
+# 👨‍💻 Author 
+
+Karthik Surthani 
+
+Aspiring Data Analyst | Power BI Developer 
