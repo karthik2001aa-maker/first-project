@@ -62,3 +62,89 @@ Total Quantity             =                               5436
 # 🛠️ Tools & Technologies 
 ## 1️⃣ Data Import 
 The sales Excel dataset was imported into Power BI. The following tables were used
+
+  • Sales 
+
+  • Products 
+
+  • Customers 
+
+  • Calendar 
+
+##2️⃣ Data Cleaning & Transformation 
+
+Power Query was used to prepare data for analysis. 
+
+The data preparation process included: 
+
+  • Checking data types 
+
+  • Formatting date fields 
+
+  • Remove duplicate values 
+
+  • Handling missing values 
+
+  • Cleaning data 
+
+  • Preparing tables for analysis 
+
+##3️⃣ Data Modeling 
+
+If you want a Power BI star-schema data model, use these 4 tables: 
+
+   • Sales Table → Fact Table 
+
+   • Product Table → Dimension Table 
+
+   • Customers Table → Dimension Table 
+
+   • Calendar Table → Dimension Table 
+
+### Relationship 
+
+  Product Table ─────┐   
+
+Customers Table ──   ┼ Sales Table  
+
+Calendar Table   ────┘ 
+
+##4️⃣ DAX Measures 
+
+Created DAX measures for important business KPIs such as: 
+
+   • Total Sales     
+
+   • Average Sales 
+
+   • Average profit 
+
+   • Total Quantity     
+
+   • Total Customer      
+
+## 5️⃣ Dashboard Development 
+
+Created an interactive dashboard using: 
+
+   • KPI Cards 
+
+   • Bar Charts 
+
+   • Stacked Area Chart 
+
+   • Donut Chart 
+
+   • Column Charts 
+
+   • Pic Chart 
+
+   • Treemap Chart 
+
+   • Line Charts 
+
+   • Tables 
+
+   • Slicers 
+
+   • Conditional Formation 
