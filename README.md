@@ -71,7 +71,7 @@ The sales Excel dataset was imported into Power BI. The following tables were us
 
   • Calendar 
 
-##2️⃣ Data Cleaning & Transformation 
+## 2️⃣ Data Cleaning & Transformation 
 
 Power Query was used to prepare data for analysis. 
 
@@ -89,7 +89,7 @@ The data preparation process included:
 
   • Preparing tables for analysis 
 
-##3️⃣ Data Modeling 
+## 3️⃣ Data Modeling 
 
 If you want a Power BI star-schema data model, use these 4 tables: 
 
@@ -109,7 +109,7 @@ Customers Table ──   ┼ Sales Table
 
 Calendar Table   ────┘ 
 
-##4️⃣ DAX Measures 
+## 4️⃣ DAX Measures 
 
 Created DAX measures for important business KPIs such as: 
 
