@@ -61,3 +61,4 @@ Total Quantity             =                               5436
 
 # 🛠️ Tools & Technologies 
 ## 1️⃣ Data Import 
+The sales Excel dataset was imported into Power BI. The following tables were used
