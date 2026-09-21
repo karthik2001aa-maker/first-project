@@ -9,12 +9,21 @@ The Sales Dashboard is a Business Intelligence project developed using Power BI 
 The project transforms raw retail data into an interactive dashboard that helps analyzes
 
  • Years, Months, Regions, Subcategory, Gender, Category (Slicers) 
+ 
  • Total Gross sales, Total Net Sales, Total Profit 
+ 
  • Profit by Segment 
+ 
  • Cost And Profit by category
- • Sale by products 
+ 
+ • Sale by products
+ 
  • Gross Sale and Net Sale by City 
- • Sale by Category 
+ 
+ • Sale by Category
+ 
  • Sale by Pamentmode 
+ 
  • Total customer, Average Sales, Average profit
+ 
  • Sale by Months
